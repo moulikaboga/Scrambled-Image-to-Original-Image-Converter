@@ -64,8 +64,8 @@ This project is open-source and available under the MIT License.
 
 ## Author  
 - Your Name  
-- GitHub: [Your GitHub Profile](https://github.com/your-username)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
+- GitHub: https://github.com/moulikaboga  
+- LinkedIn: https://www.linkedin.com/in/moulika-boga-610394259/
 
 ---
 
